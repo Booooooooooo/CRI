@@ -6,3 +6,7 @@ The last decades are marked by massive and diverse image data, which shows incre
 
 ## How to use
 Coming soon...
+
+## Acknowledgements
+
+Our code is based on StyleGAN-XL[https://github.com/autonomousvision/stylegan-xl]. We thank the authors for sharing their codes.
